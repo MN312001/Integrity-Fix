@@ -1,4 +1,4 @@
-## Play-Integrity-Fixed 🪄 -Moded
+## Play-Integrity-Fixed - Moded
 
 ## Mohammad-Ismail
 
