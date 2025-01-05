@@ -12,7 +12,7 @@
 
 - This version only supports Zygisk (Magisk 20.4+ and newer).
 
-- This version only supports Zygisk-Next (APatch + Kernal SU).
+- This version only supports Zygisk-Next (APatch + Kernal SU + Kernal Next).
 
 - Communication
 
