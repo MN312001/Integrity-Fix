@@ -2,7 +2,7 @@
 
 ## Mohammad-Ismail
 
-- This is the final version of the module. Please download the | [Tricky Helper](https://raw.githubusercontent.com/MN312001/Integrity-Fixed/main/Tricky_Helper-v1.0.zip) | module to get a valid KeyBox key that works without problems. Best wishes from your brother, Mohammed Ismail.
+- This is the final version of the module. Please download the | [Tricky Helper](https://t.me/MN312001) | module to get a valid KeyBox key that works without problems. Best wishes from your brother, Mohammed Ismail.
 
 - Support here.
 
