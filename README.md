@@ -1,8 +1,14 @@
-## Play-Integrity-Fixed - Moded
+## Tricky Helper
 
 ## Mohammad-Ismail
 
-- This is the final version of the module. Please download the | [Tricky Helper](https://t.me/MN312001) | module to get a valid KeyBox key that works without problems. Best wishes from your brother, Mohammed Ismail.
+- grants device integrity + fixes RCS!!✅
+  
+- Pass strong integrity and fix system applications that modify the device model.
+
+- Certified Google Play Store repair.
+
+- This unit was provided by Mohamed Ismail to change the keybox.xml and target.txt and add security_patch.txt to help you bypass PlayIntegrity.
 
 - Support here.
 
